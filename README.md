@@ -1,4 +1,4 @@
 - 👋 Olá, Sou o @cntoo
 - 👀 Estou interessado em vagas de desenvolvimento Trainee e Junior
-- 🌱 Estou atualmente aprendendo Python, AWS e Docker e cursando Analise e Desenvolvimento de Sistemas
+- 🌱 Estou atualmente realizando projetos em Java e JavaScript utilizando Spring e React cursando Analise e Desenvolvimento de Sistemas
 - 📫 Caso queira me contatar: cantoguilherme1@gmail.com
